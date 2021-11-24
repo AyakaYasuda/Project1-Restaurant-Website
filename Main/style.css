@@ -45,8 +45,15 @@ main {
 }
 
 footer {
-  background-color: greenyellow;
-  height: 40px;
+  /* height: 40px; */
+  background-color: rgba(0, 0, 0, .728);
+  padding: 50px 0px;
+}
+
+footer p {
+  font-size: 10px;
+  text-align: center;
+  color: rgb(141, 140, 140);
 }
 
 h1 {
